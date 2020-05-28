@@ -10,5 +10,5 @@ xgboost,
 lightgbm.
 
 2- Concrete / Road Crack Detection
-Aim of this project is detecting cracks from images taken by drone. I also want to measure the cracks.
-Issues : I couldn't make it to work with Open CV yet. Working on it.
+- Aim of this project is detecting cracks from images taken by drone. I also want to measure the cracks.
+- Issues : I couldn't make it to work with Open CV yet. Working on it.
